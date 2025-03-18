@@ -1,11 +1,11 @@
 # CPU Affinity Manager
 
-This program allows you to manage CPU affinity for specific processes on your system, ensuring that certain processes run on specific CPU cores. It can be configured through a simple `config.ini` file and provides a system tray icon for easy access to the configuration and settings.
+This program allows you to manage CPU affinity for specific processes on your system, ensuring that certain processes run on specific CPU cores. It can be configured through a simple `config.ini` file and provides a system tray icon for reloading the said configuration.
 
 ## Requirements
 
 - **Windows XP** or newer (compiled for Windows XP), works on Windows 2000 with BWC kernel extensions and VC++ 2019 runtime
-- **Visual Studio 2019** for building the project
+- (Optional) **Visual Studio 2019** for building the project
 
 ## Installation
 
