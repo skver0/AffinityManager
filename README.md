@@ -9,6 +9,14 @@ This program allows you to manage CPU affinity for specific processes on your sy
 
 ## Installation
 
+1. Download the latest release from the [Releases](https://github.com/skver0/AffinityManager/releases) page.
+2. Extract the ZIP archive to a folder on your system.
+3. Configure the `config.ini` file as needed (see Configuration section below).
+4. Run `AffinityManager.exe` to start the program.
+5. (Optional) Create a shortcut to `AffinityManager.exe` in the Startup folder to run the program on system startup.
+
+## Compilation
+
 1. Clone this repository or download the ZIP archive of the project.
 2. Open the solution file `AffinityManager.sln` in Visual Studio 2019.
 3. Set the build configuration to `Release` or `Debug`.
